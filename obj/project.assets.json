@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\CampusManagement\\CampusManagement\\CampusManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\GitHub\\prog6221-icetask3-group5\\CampusManagement.csproj",
       "projectName": "CampusManagement",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\CampusManagement\\CampusManagement\\CampusManagement.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\GitHub\\prog6221-icetask3-group5\\CampusManagement.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\CampusManagement\\CampusManagement\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\GitHub\\prog6221-icetask3-group5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
