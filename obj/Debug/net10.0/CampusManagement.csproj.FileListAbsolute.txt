@@ -1,0 +1,28 @@
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\CampusManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\CampusManagement.AssemblyInfoInputs.cache
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\CampusManagement.AssemblyInfo.cs
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\CampusManagement.csproj.CoreCompileInputs.cache
+C:\Users\ntlha\Documents\c# projects\CampusManagement\bin\Debug\net10.0\CampusManagement.exe
+C:\Users\ntlha\Documents\c# projects\CampusManagement\bin\Debug\net10.0\CampusManagement.deps.json
+C:\Users\ntlha\Documents\c# projects\CampusManagement\bin\Debug\net10.0\CampusManagement.runtimeconfig.json
+C:\Users\ntlha\Documents\c# projects\CampusManagement\bin\Debug\net10.0\CampusManagement.dll
+C:\Users\ntlha\Documents\c# projects\CampusManagement\bin\Debug\net10.0\CampusManagement.pdb
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\CampusManagement.dll
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\refint\CampusManagement.dll
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\CampusManagement.pdb
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\CampusManagement.genruntimeconfig.cache
+C:\Users\ntlha\Documents\c# projects\CampusManagement\obj\Debug\net10.0\ref\CampusManagement.dll
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\bin\Debug\net10.0\CampusManagement.exe
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\bin\Debug\net10.0\CampusManagement.deps.json
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\bin\Debug\net10.0\CampusManagement.runtimeconfig.json
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\bin\Debug\net10.0\CampusManagement.dll
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\bin\Debug\net10.0\CampusManagement.pdb
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\CampusManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\CampusManagement.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\CampusManagement.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\CampusManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\CampusManagement.dll
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\refint\CampusManagement.dll
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\CampusManagement.pdb
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\CampusManagement.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CampusManagement\CampusManagement\obj\Debug\net10.0\ref\CampusManagement.dll
